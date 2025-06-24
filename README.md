@@ -44,11 +44,11 @@ Obs: As datas e horário padrão ao abrir os fragments serão o dia e horario at
 ## Autores
 
 - **Henrique Luiz de Almeida Lopes**  
-  [LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/HenriqueLopes-dev)
+  [LinkedIn](https://www.linkedin.com/in/henrique-luiz-almeida-lopes) | [GitHub](https://github.com/HenriqueLopes-dev)
 - **Caio Henrique de Paiva**  
-  [LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/HenriqueLopes-dev)
+  [LinkedIn](https://www.linkedin.com/in/caio-henrique-carvalho-de-paiva) | [GitHub](https://github.com/Caiopaiva07)
 - **Alexsandro Bueno**  
-  [LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/HenriqueLopes-dev)
+  [LinkedIn](https://www.linkedin.com/in/alexbueno-dev) | [GitHub](https://github.com/alexbueno-dev)
 
 ---
 
